@@ -1,0 +1,10 @@
+C:\Users\daniy\Desktop\examenmollo\examenmollo\bin\Debug\examenmollo.exe.config
+C:\Users\daniy\Desktop\examenmollo\examenmollo\bin\Debug\examenmollo.exe
+C:\Users\daniy\Desktop\examenmollo\examenmollo\bin\Debug\examenmollo.pdb
+C:\Users\daniy\Desktop\examenmollo\examenmollo\bin\Debug\examenmollo.xml
+C:\Users\daniy\Desktop\examenmollo\examenmollo\obj\Debug\examenmollo.Form1.resources
+C:\Users\daniy\Desktop\examenmollo\examenmollo\obj\Debug\examenmollo.Resources.resources
+C:\Users\daniy\Desktop\examenmollo\examenmollo\obj\Debug\examenmollo.vbproj.GenerateResource.Cache
+C:\Users\daniy\Desktop\examenmollo\examenmollo\obj\Debug\examenmollo.exe
+C:\Users\daniy\Desktop\examenmollo\examenmollo\obj\Debug\examenmollo.xml
+C:\Users\daniy\Desktop\examenmollo\examenmollo\obj\Debug\examenmollo.pdb
